@@ -6,7 +6,7 @@
 body {
   height: 1080px;
   width: 1920px;
-  background-image: url("/bgwithdec.png");
+  background-image: url("bgwithdec.png");
   margin: 0;
 }
 
